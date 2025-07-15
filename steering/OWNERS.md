@@ -1,6 +1,6 @@
 # Owners (Template)
 
-- See [CONTRIBUTING.md](./CONTRIBUTING.md) for general contribution guidelines.
+- See [CONTRIBUTING.md](https://github.com/gardenlinux/gardenlinux/blob/main/CONTRIBUTING.md) for general contribution guidelines.
 - See [CONTRIBUTING_USING_GENAI.md](https://github.com/gardenlinux/.github/blob/main/CONTRIBUTING_USING_GENAI.md) for contributions leveraging GenAI guidelines.
 - See [GOVERNANCE.md](./GOVERNANCE.md) for governance guidelines and maintainer responsibilities
 
