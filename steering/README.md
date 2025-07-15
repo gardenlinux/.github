@@ -10,11 +10,11 @@ The Garden Linux organization and its projects are an open-source standard, cont
 
 Below you can find the governenace documents:
 
-| Governance Document               | Purpose                                            |
-| --------------------------------- | -------------------------------------------------- |
-| [Owners](./OWNERS.md)             | Maintainers & Technical Steering Committee Members |
-| [Project Charter](./CHARTER.md)   | Structure, purpose and organization of project     |
-| [Contributing](./CONTRIBUTING.md) | General contribution guidelines                    |
+| Governance Document                                                                  | Purpose                                            |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------- |
+| [Owners](./OWNERS.md)                                                                | Maintainers & Technical Steering Committee Members |
+| [Project Charter](./CHARTER.md)                                                      | Structure, purpose and organization of project     |
+| [Contributing](https://github.com/gardenlinux/gardenlinux/blob/main/CONTRIBUTING.md) | General contribution guidelines                    |
 
 ## Meetings
 

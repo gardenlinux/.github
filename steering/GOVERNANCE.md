@@ -11,4 +11,4 @@ We have the following governance documents:
 
 ## Repository Guidelines
 
-All new repositories repository under the [github.com/gardenlinux](https://github.com/gardenlinux) organization should follow the guidelines set out at [CONTRIBUTING.md](./CONTRIBUTING.md).
+All new repositories repository under the [github.com/gardenlinux](https://github.com/gardenlinux) organization should follow the guidelines set out at [CONTRIBUTING.md](https://github.com/gardenlinux/gardenlinux/blob/main/CONTRIBUTING.md).
