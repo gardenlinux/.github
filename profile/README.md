@@ -1,6 +1,6 @@
 # Welcome to the Garden Linux Project
 
-<img align="left" width="200" height="200" src="https://raw.githubusercontent.com/gardenlinux/gardenlinux/main/logo/gardenlinux.svg" alt="Garden Linux Logo" width="200" />
+<img align="left" width="90" height="90" src="https://raw.githubusercontent.com/gardenlinux/gardenlinux/main/logo/gardenlinux.svg" alt="Garden Linux Logo" width="200" />
 
 :wave: Welcome to the official GitHub presence of Garden Linux. We are part of [ApeiroRA](https://apeirora.eu/content/projects/) which is an Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services (IPCEI-CIS).
 

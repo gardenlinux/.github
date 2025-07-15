@@ -12,7 +12,7 @@ If you believe you have found a security vulnerability in any SAP-owned reposito
 
 Instead, please report them via the SAP Trust Center at [https://www.sap.com/about/trust-center/security/incident-management.html](https://www.sap.com/about/trust-center/security/incident-management.html).
 
-If you prefer to submit via email, please send an email to [secure@sap.com](mailto:secure@sap.com). If possible, encrypt your message with our PGP key; please download it from the [SAP Trust Center](https://www.sap.com/dmc/policies/pgp/keyblock.txt).
+If you prefer to submit via email, please send an email to [secure@sap.com](mailto:secure@sap.com). If possible, encrypt your message with our PGP key; please download it from the [SAP Trust Center](https://www.sap.com/keyblock).
 
 Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
 
@@ -37,6 +37,6 @@ We like to ask you to follow the [Disclosure Guidelines for SAP Security Advisor
 
 ## SAP Internal Response Process
 
-As an SAP employee, please check our internal open source security response process ([go/oss-security-response](https://go.sap.corp/oss-security-response)) for further details on how to handle security incidents.
+As an SAP employee, please check our internal open source security response process ([url.sap/isgc2y](https://url.sap/isgc2y)) for further details on how to handle security incidents.
 
 <!-- END SAP SECURITY.MD V0.0.1 BLOCK -->
