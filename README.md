@@ -1,9 +1,14 @@
 
 # Default Community Health Files
 
-This repository contains the [default community files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for a SAP organization on GitHub.
+Default [community files](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file) for the [Garden Linux](https://github.com/gardenlinux/) organization.
 
-These files are used by all public repositories if there are no own versions of these health files configured.
+Files in this repository provide defaults for all repositories in the organization that do not have their own version:
 
-Changes to the community health files and this repository are managed in a central internal location and mirrored to this repository.
-Manual changes to this repository will be overwritten and we can not accept any pull requests.
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Contributing Guidelines](CONTRIBUTING.md)
+- [Security Policy](SECURITY.md)
+- Issue and Pull Request templates
+
+---
+<p align="center"><img alt="Bundesministerium für Wirtschaft und Energie (BMWE)-EU funding logo" src="https://apeirora.eu/assets/img/BMWK-EU.png" width="400"/></p>
